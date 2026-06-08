@@ -18,3 +18,4 @@ Acest bot este fundamentat pe experiența juridică a **Avocatului Marius Vicen�
 
 ## Utilizare
 Botul utilizează API-urile OpenAI (GPT-4o) pentru interpretarea spețelor juridice, asigurând o conexiune directă între utilizator și expertiza juridică a cabinetului Coltuc.
+Author: Marius Vicențiu Coltuc, avocat specializat în litigii bancare și comerciale în România
